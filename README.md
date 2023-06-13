@@ -1,13 +1,6 @@
 ### Hi there 👋
 
-```c
-#include <stdio.h>
 
-int main(void) {
-    printf("Hello World!\n");
-    return 0;
-}
-```
 
 <!--
 **murrayobrien/murrayobrien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://www.linkedin.com/in/murray-o-brien-ab1454206/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<br/>
+<br/><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MurrayOB&theme=tokyonight" alt="mystreak"/>
 
 <!--

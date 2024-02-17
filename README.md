@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 <a href="https://www.linkedin.com/in/murray-o-brien-ab1454206/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<img src="https://komarev.com/ghpvc/?username=MurrayOB&color=brightgreen" alt="watching_count" />
+
+![Metrics](https://metrics.lecoq.io/MurrayOB?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
 <!--
 **murrayobrien/murrayobrien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
